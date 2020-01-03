@@ -1,0 +1,50 @@
+body
+{
+  
+  background-size:100%;
+  background-attachment: fixed;
+  background-image: url(14.jpg )
+}
+.centered {
+    position: absolute;
+    bottom: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: algerian;
+    color: #e6e6e6;
+    text-decoration: overline;
+    font-style: bold;
+    text-shadow: 5px 3px black;
+    font-size: 50px;
+}
+
+  
+
+.container{
+  border:   ;
+}
+
+.menu a {
+  font-family: Snap ITC;
+  font-size: 25px;
+  color:#66b3ff;
+
+}
+
+footer {
+
+  margin-top: 50px;
+  text-align: center;
+  background-color: black;
+  font-family: Clarendon BT;
+  font-size: 30px;
+  color: white;
+}
+
+ 
+.p {
+  text-align: center;
+  font-size: 20px;
+  font-family: Clarendon BT;
+  
+}
